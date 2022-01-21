@@ -1,0 +1,1 @@
+modules - blocks of encapsulated code that communicates with an external application
